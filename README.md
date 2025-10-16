@@ -4,7 +4,7 @@
 Save and manage URLs for lead tracking and research.
 
 ## Features
-- Save current tab URL with one click
+- Save the current tab URL with one click
 - Manually add any URL
 - View all saved leads
 - Delete unwanted URLs
