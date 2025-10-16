@@ -18,5 +18,7 @@ Save and manage URLs for lead tracking and research.
 6. Select the folder
 7. Done! 🎉
 
+
 ## Screenshot
-[Coming soon]
+
+![Leads Tracker Extension](screenshot.png)
